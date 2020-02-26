@@ -4,3 +4,4 @@
 - feature-B
 - fix-B
 - feature-C
+- feature-X
